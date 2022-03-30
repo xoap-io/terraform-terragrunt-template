@@ -1,0 +1,4 @@
+export ORGANIZATION=""
+export STORAGE_BUCKET=""
+export AWS_REGION=""
+export EXECUTION_PROFILE=""
